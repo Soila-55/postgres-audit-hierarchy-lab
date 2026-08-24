@@ -1,0 +1,11 @@
+postgres-audit-hierarchy-lab/
+│
+├── migrations/
+│
+├── audit/
+│
+├── hierarchy/
+│
+├── security/
+│
+└── docs/
